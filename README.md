@@ -26,7 +26,6 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 ![Microsoft Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
---
 
 #### 🍀 Me 🍀
 <!--
